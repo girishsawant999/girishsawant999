@@ -1,9 +1,14 @@
+<img
+      src="./assets/images/hello.gif"
+      alt="girishsawant999"
+  />
+
 <h1 align="center">Hi 👋, I'm Girish Sawant</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=girishsawant999&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=girishsawant999&label=Profile%20views&color=0e75b6&style=flat&co   lor=2c98f0"
     alt="girishsawant999"
   />
 </p>
