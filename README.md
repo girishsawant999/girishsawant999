@@ -1,7 +1,6 @@
-<img
-      src="./assets/images/hello.gif"
-      alt="girishsawant999"
-  />
+<p align="center">
+  <img src="./assets/images/hello.gif" alt="girishsawant999" height="300" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Girish Sawant</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
