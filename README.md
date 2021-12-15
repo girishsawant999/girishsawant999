@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/images/hello.gif" alt="profile-welcome" height="350" />
-</p>
+</p> -->
 <hr />
 
 <p align="center">
