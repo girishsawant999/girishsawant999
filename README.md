@@ -1,24 +1,55 @@
+<style>
+  @import url("https://fonts.googleapis.com/css2?family=Bakbak+One&family=Questrial&family=Smooch&display=swap");
+
+  body {
+    font-family: "Questrial", sans-serif;
+    font-size: 16px;
+    line-height: 1.1;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Bakbak One", cursive;
+    margin-bottom: 1rem;
+  }
+  hr {
+    margin: 1rem 0;
+  }
+</style>
 <p align="center">
-  <img src="./assets/images/hello.gif" alt="girishsawant999" height="300" />
+  <img src="./assets/images/hello.gif" alt="profile-welcome" height="350" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Girish Sawant</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-
-<p align="left">
+<h2 align="center">Hi 👋,<br />I'm Girish Sawant</h2>
+<h4 align="center">┫Senior Software Engineer┣</h4>
+<hr />
+<p align="center">
+  A passionate full stack developer with a flair for creating elegant solutions
+  in the least amount of time from India. Developed an e-commerce web app,
+  customer web portal, documentary launch website, and donations websites for a
+  local charity. Passionate about software architecture and new technologies.
+  Regular attendee of web developer meetups. Always ready for learning new
+  things.
+</p>
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=girishsawant999&label=Profile%20views&color=0e75b6&style=flat&co   lor=2c98f0"
-    alt="girishsawant999"
+    alt="profile-views"
   />
 </p>
+<hr />
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=girishsawant999"
-      alt="girishsawant999"
-  /></a>
+<h3 align="center">Github Trophies:</h3>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=girishsawant999&row=1&margin-w=15&margin-h=15&size=100&color=0e75b6&style=flat&color=2c98f0"
+    alt="github-trophies"
+  />
 </p>
+<hr />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
