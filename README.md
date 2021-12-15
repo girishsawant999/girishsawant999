@@ -2,7 +2,7 @@
   <img src="./assets/images/hello.gif" alt="profile-welcome" height="350" />
 </p>
 
-<h1 align="center">Hi 👋,<br />I'm Girish Sawant</h1>
+<h1 align="center" style="font-size: 16px;">Hi 👋,<br />I'm Girish Sawant</h1>
 <h2 align="center">┫Senior Software Engineer┣</h2>
 <p align="center">
   A passionate full stack developer with a flair for creating elegant solutions
