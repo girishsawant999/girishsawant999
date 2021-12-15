@@ -1,31 +1,9 @@
-<style>
-  @import url("https://fonts.googleapis.com/css2?family=Bakbak+One&family=Questrial&family=Smooch&display=swap");
-
-  body {
-    font-family: "Questrial", sans-serif;
-    font-size: 16px;
-    line-height: 1.1;
-  }
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-family: "Bakbak One", cursive;
-    margin-bottom: 1rem;
-  }
-  hr {
-    margin: 1rem 0;
-  }
-</style>
 <p align="center">
   <img src="./assets/images/hello.gif" alt="profile-welcome" height="350" />
 </p>
 
-<h2 align="center">Hi 👋,<br />I'm Girish Sawant</h2>
-<h4 align="center">┫Senior Software Engineer┣</h4>
-<hr />
+<h1 align="center">Hi 👋,<br />I'm Girish Sawant</h1>
+<h2 align="center">┫Senior Software Engineer┣</h2>
 <p align="center">
   A passionate full stack developer with a flair for creating elegant solutions
   in the least amount of time from India. Developed an e-commerce web app,
