@@ -1,9 +1,12 @@
 <p align="center">
   <img src="./assets/images/hello.gif" alt="profile-welcome" height="350" />
 </p>
+<hr />
 
-<h1 align="center" style="font-size: 90px;">Hi 👋,<br />I'm Girish Sawant</h1>
-<h2 align="center">┫Senior Software Engineer┣</h2>
+<p align="center">
+  <img src="./assets/images/intro-card.jpg" alt="profile-welcome" />
+</p>
+
 <p align="center">
   A passionate full stack developer with a flair for creating elegant solutions
   in the least amount of time from India. Developed an e-commerce web app,
