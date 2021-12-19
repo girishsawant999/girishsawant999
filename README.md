@@ -32,8 +32,8 @@
 </p>
 <hr />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/girishsawant999" target="blank"
     ><img
       align="center"
@@ -67,9 +67,10 @@
       width="40"
   /></a>
 </p>
+<hr />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
       src="https://angular.io/assets/images/logos/angular/angular.svg"
@@ -323,12 +324,12 @@
     />
   </a>
 </p>
-
-<h3 align="left">Support:</h3>
+<hr />
+<h3 align="center">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/girishsawant999">
     <img
-      align="left"
+      align="center"
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
       height="50"
       width="210"
@@ -339,7 +340,7 @@
 
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=girishsawant999&show_icons=true&locale=en&layout=compact"
     alt="girishsawant999"
   />
