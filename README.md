@@ -325,6 +325,7 @@
   </a>
 </p>
 <hr />
+<!-- 
 <h3 align="center">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/girishsawant999">
@@ -336,8 +337,8 @@
       alt="girishsawant999"
   /></a>
 </p>
-<br /><br />
-
+<br/>
+<br/>
 <p>
   <img
     align="center"
@@ -345,7 +346,6 @@
     alt="girishsawant999"
   />
 </p>
-
 <p>
   &nbsp;<img
     align="center"
@@ -353,11 +353,10 @@
     alt="girishsawant999"
   />
 </p>
-
 <p>
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=girishsawant999&"
     alt="girishsawant999"
   />
-</p>
+</p> -->
