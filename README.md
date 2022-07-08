@@ -51,10 +51,13 @@
 
 ## **<u>Connect With Me</u>**
 
-![Jira](https://img.shields.io/badge/linked%20in-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/girishsawant999)
-![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/girishsawant999)
-![Whatsapp](https://img.shields.io/badge/whatsapp-%2300FF00.svg?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=918796456149&text=I+read+your+portfolio.+I%27m+&type=phone_number&app_absent=0)
-![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:girishsawant999.gs@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linked%20in-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/girishsawant999)
+[![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/girishsawant999)
+[![Whatsapp](https://img.shields.io/badge/whatsapp-%2300FF00.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=918796456149&text=I+read+your+portfolio.+I%27m+&type=phone_number&app_absent=0)
+[![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:girishsawant999.gs@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/stack%20overflow-%2320232a.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13732827/girish-sawant)
+[![Leetcode](https://img.shields.io/badge/leetcode-%23430098.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/girishsawant999/)
+<br>
 
 ## **<u>Github Trophies</u>**
 
