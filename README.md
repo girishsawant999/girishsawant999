@@ -22,10 +22,6 @@
   />
 </p>
 
----
-
-<br>
-
 ## **<u>My Tech Stack</u>**
 ### Front End
 
@@ -52,7 +48,6 @@
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Coda](https://img.shields.io/badge/coda-%6162234.svg?style=for-the-badge&logo=coda&logoColor=white) ![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230A0FFF.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Gitlab](https://img.shields.io/badge/gitlab-%23E34F11.svg?style=for-the-badge&logo=gitlab&logoColor=white) <br/>
 
----
 
 ## **<u>Connect With Me</u>**
 
@@ -60,8 +55,6 @@
 ![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/girishsawant999)
 ![Whatsapp](https://img.shields.io/badge/whatsapp-%2300FF00.svg?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=918796456149&text=I+read+your+portfolio.+I%27m+&type=phone_number&app_absent=0)
 ![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:girishsawant999.gs@gmail.com)
-
----
 
 ## **<u>Github Trophies</u>**
 
