@@ -94,5 +94,9 @@
     src="https://github-profile-trophy.vercel.app/?username=girishsawant999&row=1&margin-w=15&margin-h=15&size=100&color=0e75b6&style=flat&color=2c98f0"
     alt="github-trophies"
   />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=girishsawant999&row=1&margin-w=15&margin-h=15&size=100&color=0e75b6&style=flat&color=2c98f0"
+    alt="github-trophies"
+  />
 
 ---
