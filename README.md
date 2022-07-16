@@ -84,6 +84,7 @@
 [![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:girishsawant999.gs@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-%2320232a.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13732827/girish-sawant)
 [![Leet-code](https://img.shields.io/badge/leetcode-%23430098.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/girishsawant999/)
+[![NPM](https://img.shields.io/badge/npm-%23323330.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~girishsawant999)
 <br>
 
 ## **<u>Github Trophies</u>**
