@@ -4,7 +4,7 @@
 <hr />
 
 <p align="center">
-  <img src="./assets/images/intro.gif" alt="profile-welcome" height="200" />
+  <img src="./assets/images/intro.gif" alt="profile-welcome" style="width: 100%;" height="200" />
 </p>
 
 <p align="center">
