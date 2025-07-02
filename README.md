@@ -17,7 +17,7 @@
 </p>
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/portfolio-%23039BE5.svg?style=for-the-badge&logo=iconify&logoColor=white)](https://girishsawant999.github.io)
+[![Portfolio](https://img.shields.io/badge/portfolio-%23039BE5.svg?style=for-the-badge&logo=iconify&logoColor=white)](https://girishsawant.vercel.app/)
 ![Portfolio](https://komarev.com/ghpvc/?username=girishsawant999&label=Profile%20views&color=022526&style=for-the-badge&color=2C98F0) 
 
 </div>
